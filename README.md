@@ -11,6 +11,9 @@ import uuid
 import os
 
 ## Prerequisites
+
 Python 
+
 PyCharm or any other Python code editor 
+
 pip install: OpenCV , MediaPipe, AutoPy 
